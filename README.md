@@ -14,7 +14,7 @@ The following packages are required:
 1. `astropy`
 2. `matplotlib`
 3. `numpy`
-4. `phot_utils`
+4. `photutils`
 5. `radio_beam`
 6. `copy` (a Python standard library)
 
