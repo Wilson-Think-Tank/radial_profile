@@ -4,7 +4,7 @@ Generate ellipses/annuli to create radial profile plots of radio or other wavele
 Does not yet support high-inclination galaxies (feature coming soon!).
 
 There may be bugs or other unexpected behaviour, in which case just ping me on Slack or
-send an email to [isaac.cheng.ca@gmail.com.](mailto:isaac.cheng.ca@gmail.com). Also let me
+send an email to [isaac.cheng.ca@gmail.com](mailto:isaac.cheng.ca@gmail.com). Also let me
 know if there are typos in any documentation.
 
 ## Requirements
