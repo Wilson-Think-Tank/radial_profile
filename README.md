@@ -1,11 +1,15 @@
 # Radio Profile Utilities
 
 Generate ellipses/annuli to create radial profile plots of radio or other wavelength data.
-Includes support for high-inclination galaxies.
+Includes support for high-inclination galaxies and directional radial profiles.
 
 There may be bugs or other unexpected behaviour, in which case just ping me on Slack or
 send an email to [isaac.cheng.ca@gmail.com](mailto:isaac.cheng.ca@gmail.com). Also let me
 know if there are typos in any documentation.
+
+Currently, the documentation for directional radial profiles is really sparse. I will
+finish the docstrings eventually. Until then, just ping me if you have difficulty
+using or understanding the directional radial profiles.
 
 ## Requirements
 
